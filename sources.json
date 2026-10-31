@@ -1,0 +1,402 @@
+[
+  {
+    "name": "综合001·量子资源（主）",
+    "url": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+  },
+  {
+    "name": "综合002·量子云（主）",
+    "url": "https://lzizy1.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合003·嘉云（主）",
+    "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合004·暴风资源（主）",
+    "url": "https://bfzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合005·豪华资源（主）",
+    "url": "https://hhzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合006·速播资源（主）",
+    "url": "https://subocaiji.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合007·金鹰资源2（主）",
+    "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8"
+  },
+  {
+    "name": "综合008·光速资源（主）",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合009·金鹰资源（主）",
+    "url": "http://jinyingzy.com/provide/vod"
+  },
+  {
+    "name": "综合010·新浪资源（主）",
+    "url": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合011·极速资源（主）",
+    "url": "https://jszyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合012·虎牙资源（主）",
+    "url": "https://www.huyaapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合013·电影天堂（主）",
+    "url": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合014·非凡资源（主）",
+    "url": "http://ffzy.tv/api.php/provide/vod"
+  },
+  {
+    "name": "综合015·非凡资源2（主）",
+    "url": "http://ffzy5.tv/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合016·非凡资源3（主）",
+    "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合017·非凡资源4（主）",
+    "url": "https://api.ffzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合018·无尽资源（主）",
+    "url": "https://api.wujinapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合019·影视猫（主）",
+    "url": "https://www.mdzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合020·飘零影院（主）",
+    "url": "https://p2100.net/api.php/provide/vod"
+  },
+  {
+    "name": "综合021·360资源（主）",
+    "url": "https://360zy.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合022·猫眼资源（主）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod/from/lzm3u8"
+  },
+  {
+    "name": "综合023·百度资源（主）",
+    "url": "https://api.apibdzy.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合024·暴风资源2（主）",
+    "url": "https://app.bfzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合025·量子资源（备1）",
+    "url": "http://cj.lziapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合026·量子云（备1）",
+    "url": "https://lzizy1.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合027·嘉云（备1）",
+    "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod"
+  },
+  {
+    "name": "综合028·暴风资源（备1）",
+    "url": "https://bfzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合029·豪华资源（备1）",
+    "url": "https://hhzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合030·速播资源（备1）",
+    "url": "https://subocaiji.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合031·金鹰资源2（备1）",
+    "url": "https://jyzyapi.com/provide/vod/at/json"
+  },
+  {
+    "name": "综合032·光速资源（备1）",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合033·金鹰资源（备1）",
+    "url": "http://jinyingzy.com/provide/vod/from/jinyingm3u8"
+  },
+  {
+    "name": "综合034·新浪资源（备1）",
+    "url": "http://api.xinlangapi.com/xinlangapi.php/provide/vod"
+  },
+  {
+    "name": "综合035·极速资源（备1）",
+    "url": "https://jszyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合036·虎牙资源（备1）",
+    "url": "https://www.huyaapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合037·电影天堂（备1）",
+    "url": "https://caiji.dyttzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合038·非凡资源（备1）",
+    "url": "http://ffzy.tv/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合039·非凡资源2（备1）",
+    "url": "http://ffzy5.tv/api.php/provide/vod"
+  },
+  {
+    "name": "综合040·非凡资源3（备1）",
+    "url": "http://cj.ffzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合041·非凡资源4（备1）",
+    "url": "https://api.ffzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合042·无尽资源（备1）",
+    "url": "https://api.wujinapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合043·影视猫（备1）",
+    "url": "https://www.mdzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合044·飘零影院（备1）",
+    "url": "https://p2100.net/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合045·360资源（备1）",
+    "url": "https://360zy.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合046·猫眼资源（备1）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod/from/hym3u8"
+  },
+  {
+    "name": "综合047·百度资源（备1）",
+    "url": "https://api.apibdzy.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合048·量子资源（备2）",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+  },
+  {
+    "name": "综合049·量子云（备2）",
+    "url": "https://lzizy1.com/api.php/provide/vod/from/lzm3u8"
+  },
+  {
+    "name": "综合050·金鹰资源2（备2）",
+    "url": "https://jyzyapi.com/provide/vod"
+  },
+  {
+    "name": "综合051·光速资源（备2）",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"
+  },
+  {
+    "name": "综合052·金鹰资源（备2）",
+    "url": "http://jinyingzy.com/provide/vod/at/json"
+  },
+  {
+    "name": "综合053·虎牙资源（备2）",
+    "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
+  },
+  {
+    "name": "综合054·电影天堂（备2）",
+    "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合055·360资源（备2）",
+    "url": "https://360zy.com/api.php/provide/vod/from/hym3u8"
+  },
+  {
+    "name": "综合056·猫眼资源（备2）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod"
+  },
+  {
+    "name": "综合057·量子资源（备3）",
+    "url": "http://cj.lziapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合058·光速资源（备3）",
+    "url": "http://api.guangsuapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合059·360资源（备3）",
+    "url": "https://360zy.com/api.php/provide/vod/from/gsm3u8"
+  },
+  {
+    "name": "综合060·猫眼资源（备3）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合061·量子资源（备4）",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合062·360资源（备4）",
+    "url": "https://360zy.com/api.php/provide/vod/from/jinyingm3u8"
+  },
+  {
+    "name": "综合063·猫眼资源（备4）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod/from/gsm3u8"
+  },
+  {
+    "name": "综合064·量子资源（备5）",
+    "url": "https://cj.lziapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合065·360资源（备5）",
+    "url": "https://360zy.com/api.php/provide/vod/from/lzm3u8"
+  },
+  {
+    "name": "综合066·猫眼资源（备5）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod/from/jinyingm3u8"
+  },
+  {
+    "name": "综合067·360资源（备6）",
+    "url": "https://360zy.com/api.php/provide/vod/from/kcm3u8"
+  },
+  {
+    "name": "综合068·猫眼资源（备6）",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod/from/kcm3u8"
+  },
+  {
+    "name": "综合069·量子云（镜像）",
+    "url": "http://lzizy1.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合070·暴风资源（镜像）",
+    "url": "http://bfzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合071·豪华资源（镜像）",
+    "url": "http://hhzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合072·速播资源（镜像）",
+    "url": "http://subocaiji.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合073·速播资源（镜像）",
+    "url": "https://www.subocaiji.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合074·金鹰资源2（镜像）",
+    "url": "http://jyzyapi.com/provide/vod/from/jinyingm3u8"
+  },
+  {
+    "name": "综合075·金鹰资源2（镜像）",
+    "url": "https://www.jyzyapi.com/provide/vod/from/jinyingm3u8"
+  },
+  {
+    "name": "综合076·光速资源（镜像）",
+    "url": "http://api.guangsuapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合077·金鹰资源（镜像）",
+    "url": "https://jinyingzy.com/provide/vod"
+  },
+  {
+    "name": "综合078·金鹰资源（镜像）",
+    "url": "http://www.jinyingzy.com/provide/vod"
+  },
+  {
+    "name": "综合079·新浪资源（镜像）",
+    "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合080·极速资源（镜像）",
+    "url": "http://jszyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合081·极速资源（镜像）",
+    "url": "https://www.jszyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合082·虎牙资源（镜像）",
+    "url": "http://www.huyaapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合083·电影天堂（镜像）",
+    "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合084·非凡资源（镜像）",
+    "url": "https://ffzy.tv/api.php/provide/vod"
+  },
+  {
+    "name": "综合085·非凡资源（镜像）",
+    "url": "http://www.ffzy.tv/api.php/provide/vod"
+  },
+  {
+    "name": "综合086·非凡资源2（镜像）",
+    "url": "https://ffzy5.tv/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合087·非凡资源2（镜像）",
+    "url": "http://www.ffzy5.tv/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合088·非凡资源3（镜像）",
+    "url": "https://cj.ffzyapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合089·非凡资源4（镜像）",
+    "url": "http://api.ffzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合090·无尽资源（镜像）",
+    "url": "http://api.wujinapi.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合091·影视猫（镜像）",
+    "url": "http://www.mdzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合092·影视猫（镜像）",
+    "url": "https://mdzyapi.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合093·飘零影院（镜像）",
+    "url": "http://p2100.net/api.php/provide/vod"
+  },
+  {
+    "name": "综合094·飘零影院（镜像）",
+    "url": "https://www.p2100.net/api.php/provide/vod"
+  },
+  {
+    "name": "综合095·360资源（镜像）",
+    "url": "http://360zy.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合096·360资源（镜像）",
+    "url": "https://www.360zy.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合097·猫眼资源（镜像）",
+    "url": "http://api.maoyanapi.top/api.php/provide/vod/from/lzm3u8"
+  },
+  {
+    "name": "综合098·百度资源（镜像）",
+    "url": "http://api.apibdzy.com/api.php/provide/vod/at/json"
+  },
+  {
+    "name": "综合099·量子云（镜像）",
+    "url": "http://lzizy1.com/api.php/provide/vod"
+  },
+  {
+    "name": "综合100·量子云（镜像）",
+    "url": "https://www.lzizy1.com/api.php/provide/vod"
+  }
+]

@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: libretv-100
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /
+    autoDeploy: true
+    envVars:
+      - key: PASSWORD
+        value: "13622"
+      - key: ADMIN_USER
+        value: "1362280"
+      - key: ADMIN_PASSWORD
+        value: "Aa230702"
+      - key: DEFAULT_RECOMMEND_SOURCE
+        value: douban
+      - key: SEARCH_MAX_PAGES
+        value: "1"
+      - key: SEARCH_SOURCE_TIMEOUT_MS
+        value: "5000"
+      # Render 免费实例 512MB 内存，并发 30 是实测比较稳的档位
+      - key: SEARCH_CONCURRENCY
+        value: "30"
